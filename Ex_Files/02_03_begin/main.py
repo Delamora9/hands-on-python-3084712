@@ -6,6 +6,7 @@ PAUL = NAMES[1]
 
 JOHN_PAUL = NAMES[:2]
 GEORGE_RINGO = NAMES[2:]
+#[stop,start,step]
 REVERSE = NAMES[::-1]
 EVERY_OTHER = NAMES[::2]
 
